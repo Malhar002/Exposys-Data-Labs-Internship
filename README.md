@@ -7,5 +7,5 @@ Diabetes is a type of chronic disease which is more common among the people of a
 ###
 
 ### **TASK**
-        -1. Prepare the dataset using different methods to train the model.
-        -2. Build a model which can give high accuracy of predicting a disease.
+        1. Prepare the dataset using different methods to train the model.
+        2. Build a model which can give high accuracy of predicting a disease.
